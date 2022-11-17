@@ -10,7 +10,7 @@ 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
 
 
 # 生成变体数据脚本：
-create_pretrain_varaint_data/02_attack_data_multi_process.py
+create_pretrain_varaint_data/attack_data_multi_process.py
 
 # 生成预训练数据脚本：
 sh start_generate_data.sh
